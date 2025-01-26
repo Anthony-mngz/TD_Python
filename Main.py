@@ -1,5 +1,7 @@
+from display import display_message
+
 def main():
-    print("Hello World")
+    display_message("Hello World")
 
 if __name__ == '__main__':
     main()
